@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notiphi_app_token">169e640ca23146b8b70c81248da504dd</string>
+    <string name="notiphi_app_secret">iCvyrxJj1cpJ1gYGo2vwlFBt1RE9rdsD0dL6NcOo8/RooHnRceycD2pUMpEmBCV21sIoEZvD+4pOxJqfgGhkrA==</string>
+
+</resources>
